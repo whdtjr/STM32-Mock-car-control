@@ -1,5 +1,4 @@
-//서울기술교육센터 AIOT & Embedded System
-//2024-04-16 By KSH
+
 
 
 #ifndef __ESP_H__
